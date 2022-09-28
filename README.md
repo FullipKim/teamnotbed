@@ -1,3 +1,6 @@
+**린캔버스**
+- 이미지
+
 **My Branch**
 - 브랜치를 뻗어 협업을 정리해보았다.
 - 프로젝트 개요와 내가 맡은 부분을 추가해 정리해보겠다.
@@ -14,8 +17,5 @@
     - 서비스 : 마이크로소프트 Azure, MariaDB, Yolo v5, Git, Notion
     - 기타 : 라즈베리파이 4B+, Grafana, Apache, Linux, MJPG, Laravel
 
-**린캔버스**
-- 이미지
-
-**Ppt**
+**PPT**
 - 이미지
