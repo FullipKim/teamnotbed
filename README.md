@@ -1,32 +1,48 @@
-<img src="assets/logo2.png">
-
-# 린캔버스
-<img src="assets/lean.png">
-
-# 시연영상
-<a href="https://youtu.be/2uq0efeVLOs"></a>
+# fullip branch
+여기는 내 작업을 정리해 올리는 가지이다.
+내가 맡은 역할과 관련 작업명세, 결과물 프리뷰 등을 정리했다.
 
 ----------
 
-# My Branch
-1. 브랜치를 뻗어 협업을 정리해보았다.
-2. 프로젝트 개요와 내가 맡은 부분을 추가해 정리해보겠다.
+# 나의 역할
+1. 서버
+> - Apache2 웹서버 설계 및 구축
+> - 백업 보관소 용도의 Azure클라우드와 가상머신 구축
+2. 소프트웨어
+> - 소프트웨어 설계와 구축, 웹앱 개발
+3. PM
+> - 계획 일정 정리 및 문서화 작업
+> - 전체적인 기획 총괄
+4. FE
+> - Laravel Frame Work
+> - Grafana 대시보드 Embed
+5. BE
+> - Post 통신 버튼 구현
+> - KakaoTalk Message API 활용
 
 ----------
 
-# 프로젝트 개요
-- 프로젝트명 : 클라우드와 영상처리를 기반한 욕창방지 침대 & 원격제어 시스템
-- 아이디어 : 침대가 아니다, 과학이다! 단순 가구, 의료용 침대를 넘어선 DX화 요양침대
-- 팀명 : NotBed 낫베드
-- 팀장 : 이정원
-- 팀원 : 이인애, 정경민, 구관우
-- 기간 : 2022.05.30 ~ 2022.09.25 (총 18주)
-- 활용기술
-    - 언어 : C, Python, html + css, PHP, JavaScript
-    - 서비스 : 마이크로소프트 Azure, MariaDB, Yolo v5, Git, Notion
-    - 기타 : 라즈베리파이 4B+, Grafana, Apache, Linux, MJPG, Laravel
+# 결과물 프리뷰
+<img src="logo2.png">
 
------------
+======
 
-# PPT
+## 웹서버 페이지 프리뷰
+<img src="/notbed_ppt_img/021.png">
+
+### 기능설명
+<img src="/notbed_ppt_img/020.png">
+<img src="/notbed_ppt_img/022.png">
+
+## 문서화 프리뷰
 <img src="assets/ppt.png">
+
+<a href src="https://youtu.be/2uq0efeVLOs">영상 바로가기</a>
+
+<a href src="https://fullipkim.github.io/notbed/">팀 포트폴리오 사이트</a>
+
+## 팀원별 포트폴리오 사이트
+<a href src="https://fullipkim.github.io/portfolio_/">정원 포트폴리오 사이트</a>
+<a href src="https://kkaemmi.github.io/project_1/">경민 포트폴리오 사이트</a>
+<a href src="https://inae0615.github.io/inae_Lee/">인애 포트폴리오 사이트</a>
+<a href src="https://goo05041.github.io/kwanwoo/">관우 포트폴리오 사이트</a>
