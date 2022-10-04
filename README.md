@@ -3,6 +3,9 @@
 # 린캔버스
 <img src="assets/lean.png">
 
+# 시연영상
+<a href="https://youtu.be/2uq0efeVLOs"></a>
+
 ----------
 
 # My Branch
