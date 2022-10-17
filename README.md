@@ -42,7 +42,7 @@
 <a href src="https://fullipkim.github.io/notbed/">팀 포트폴리오 사이트</a>
 
 ## 팀원별 포트폴리오 사이트
-<a href src="https://fullipkim.github.io/portfolio_/">정원 포트폴리오 사이트</a>
-<a href src="https://kkaemmi.github.io/project_1/">경민 포트폴리오 사이트</a>
-<a href src="https://inae0615.github.io/inae_Lee/">인애 포트폴리오 사이트</a>
-<a href src="https://goo05041.github.io/kwanwoo/">관우 포트폴리오 사이트</a>
+<a href="https://fullipkim.github.io/portfolio_/">정원 포트폴리오 사이트</a>
+<a href="https://kkaemmi.github.io/project_1/">경민 포트폴리오 사이트</a>
+<a href="https://inae0615.github.io/inae_Lee/">인애 포트폴리오 사이트</a>
+<a href="https://goo05041.github.io/kwanwoo/">관우 포트폴리오 사이트</a>
